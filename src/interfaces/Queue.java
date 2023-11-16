@@ -1,7 +1,7 @@
 package interfaces;
 /**
  * This is a data ADT that doesn't use positions only the order of arrival.
- * Its FIFO, which means that the first item to arruve is the first item to leave the Queue
+ * Its FIFO, which means that the first item to arrive is the first item to leave the Queue
  * @author The Dark Ass
  *
  * @param <E>
